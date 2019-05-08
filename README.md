@@ -6,7 +6,7 @@ https://space.bilibili.com/4307799
 
 互联网时代诱惑太多，一个人独处的时候很容易被其他事物诱惑，为了成为更好的人，我想制作一个自律的App，从手机的使用上管理人们的使用方式和时长。
 
-There are too many temptations in the Internet age. When one is alone, one can easily be tempted by other things. In order to be a better person, I want to make a self-disciplined App to manage people's practical ways and time from the use of mobile phones.
+There are too many temptations in the Internet age. When one is alone, one can easily be tempted by other things. In order to be a better person, I want to make a self-disciplined App to manage people's way of using mobile phones and their time.
 
 功能一：专注
 
