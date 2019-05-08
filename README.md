@@ -12,6 +12,6 @@ There are too many temptations in the Internet age. When one is alone, one can e
 
 Function 1: Focus
 
-利用陀螺仪来控制人们再打算做其他需要专注的时候不碰手机。
+利用陀螺仪来控制人们再打算做其他需要专注的事的时候不碰手机。
 
-A gyroscope is used to control people from touching their cell phones when they want to focus on other things.
+The gyroscope is used to control people from touching their cell phones when they are going to do other things that require attention.
