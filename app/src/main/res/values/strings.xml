@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">慎独</string>
+    <string name="app_main_word">欢迎来到慎独APP，在这里，或许能为您提供不一样的应用体验，我们的应用是为了让您更加专注生活中的事，而不是沉迷于手机。</string>
+    <string name="app_main_focus">通过设置下方时间，点击中间的专注按钮。在接来的时间内，我们会让您专注于工作或学习，从而开始关闭手机的屏幕，并监督您专注时间以内的触碰手机的行为。</string>
 </resources>
